@@ -1,1 +1,8 @@
-Fist File
+1) git clone <url>
+2) git add .
+3) git log
+4) git commit -m "xyz"
+5) git push
+6) git reset HEAD~1 --soft, hard
+
+
